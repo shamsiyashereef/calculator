@@ -1,0 +1,33 @@
+div{
+    border: 2px;
+    background-color: rgb(0, 0, 0);
+    width: 295px;
+    height: 375px;
+    margin-left: 40%;
+    margin-top: 35px;
+    padding: 8px;
+    
+}
+.btn{
+    height: 35px;
+    width: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    font-size:large;
+    margin: 8px;
+    margin-left: 15px;
+    
+}
+.screen{
+    
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    text-align: end;
+    width: 100%;
+    padding: 0px 10px;
+    margin-bottom: 30px;
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    background:rgb(184, 175, 175);
+}
